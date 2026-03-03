@@ -17,3 +17,4 @@ If you are developing a production application, we recommend using TypeScript wi
 
 ## Инструкция по запуску проекта:
 
+1. Шаг - скачать проект.
